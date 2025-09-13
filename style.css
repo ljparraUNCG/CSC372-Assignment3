@@ -6,10 +6,10 @@
     margin: 5px;
     border-radius: 5px;
     justify-content: center;
+    align-items: center;
     
 }
 
-<!--comment-->
 
 .flex-item {
     display: inline-flex;
